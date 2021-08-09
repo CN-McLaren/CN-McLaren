@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ChonkyVacation
+- 👋 Hi, I’m Chris
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning C++ 
