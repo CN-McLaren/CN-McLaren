@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Chris
-- 👀 I’m interested in learning 
-- 🌱 I’m currently learning C++ 
+- 👀 I’m interested in learning web development
+- 🌱 I’m currently studying a bachelor of information systems
+- 🌱 I’m currently learning through the Odin Project
