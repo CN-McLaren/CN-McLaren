@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Chris.
 - 👀 I’m interested in learning web development
-- 🌱 I’m currently studying a bachelor of information systems
-- 🌱 I’m currently learning through the Odin Project
+- 🌱 I’m currently studying a bachelor of information systems at UNSW
+- 🌱 I’m currently learning web development through the Odin Project
