@@ -15,9 +15,7 @@
 
 - 📱 **Mobile Development:** Exploring the world of mobile app development with Android Studio using Java. Working on exciting projects for Android platforms.
 
-- 🎮 **Game Development:** Actively learning game development using Godot and Python. Enjoy creating interactive and immersive experiences.
-- 👀 I am focused on learning web development, SQL, Java & business/tech processes.
-- 🌱 I’m currently studying a bachelor of information systems at UNSW & learning full stack web development through the Odin Project.
+- 🎮 **Game Development:** Actively learning game development using Godot. Enjoy creating interactive and immersive experiences.
 
 ## Languages
 
