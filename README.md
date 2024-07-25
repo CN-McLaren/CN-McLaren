@@ -1,10 +1,10 @@
-# Personal Portfolio README
+# Personal Portfolio
 
 ## About Me
 
 - 👋 Hello! My name is Chris, i am a sydney based developer looking to expand my knowledge and passion in all things technology.
   
-- 🌱 I’m currently studying a bachelor of information systems at UNSW & learning full stack web development through the Odin Project.
+- 🌱 I’m currently studying a bachelor of information systems at UNSW & work in beverage AP & Beverage Analytics for Pacific Concepts & Hunter St. Hospitality.
 
 ## Learning Journey
 
